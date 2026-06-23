@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deepikaa Senthil 👋</h1>
+<h1 align="center">Hi, I'm Deepikaa Senthil </h1>
 
 <p align="center">
   <em>Computer Science Student · Software Developer · Exploring Machine Learning</em><br>
@@ -7,7 +7,7 @@
 
 ---
 
-<p>👩‍💻 About Me
+<p>About Me
 
 I'm a Computer Science engineering student passionate about building meaningful digital experiences. I enjoy turning ideas into real, functional projects from interactive websites to augmented reality applications, driven by a curiosity for how technology transforms industries, especially fintech.
 </p>
